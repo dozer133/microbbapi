@@ -1,5 +1,5 @@
 # microbbapi
-A very tiny rest API for phpBB
+A very tiny REST API for phpBB
 
 # restfulish nginx config
 
