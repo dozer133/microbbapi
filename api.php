@@ -2,7 +2,7 @@
 
   /*
     MicroBBAPI
-    A very tiny rest API for phpBB
+    A very tiny REST API for phpBB
     Author: https://github.com/dozu
   */
 
